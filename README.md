@@ -1,1 +1,1 @@
-![GitHubCard](https://githubcard.com/aiqinxuancai.svg)
+[![GitHubCard](https://githubcard.com/aiqinxuancai.svg)](https://githubcard.com/aiqinxuancai.svg?d=kaMouXv5)
