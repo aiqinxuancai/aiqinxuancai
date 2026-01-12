@@ -1,1 +1,1 @@
-![GitHubCard](https://github-card.xuancai.me/aiqinxuancai)
+![GitHubCard](https://github-card.xuancai.me/aiqinxuancai?a)
