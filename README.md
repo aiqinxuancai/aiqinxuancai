@@ -1,1 +1,1 @@
-![GitHubCard](https://github-card.xuancai.me/aiqinxuancai?theme=light)
+![GitHubCard](https://github-card.xuancai.me/aiqinxuancai?theme=ayaka)
