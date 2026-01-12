@@ -1,1 +1,1 @@
-![GitHubCard](https://githubcard.com/aiqinxuancai.svg?d=kaMouXv5)
+![GitHubCard](https://github-card.xuancai.me/aiqinxuancai)
